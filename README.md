@@ -1,4 +1,24 @@
-# Botiga d'Informàtica
+# Botiga d'**Informàtica**
+
+## Mínims:
+
+1. els *noms* i **cognoms** dels dos ***alumnes*** que hi participen en el ~~repositori~~,
+1. text en format títol de diferents nivells, així com
+
+    1. asdfasdf
+
+    1. asdfasdf
+
+    1. asdfasdf
+1. text en format Java,
+1. text en format SQL,
+1. com a mínim una imatge, que serà el diagrama UML que hàgiu dissenyat.
+
+**To Do List**
+
+[ ] text en format Java,
+
+[x] text en format SQL,
 
 ## Alumnes:
 
