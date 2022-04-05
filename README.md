@@ -6,7 +6,15 @@
 
 ## Diagrama UML:
 
-![DiagramaUML](./img/UML_Boitiga_nou.png)
+![BotigaInformatica](./img/BotigaInformatica.png)
+
+
+<table style="background-color: pink;">
+<tr>
+<td> cella 1
+</td>
+</tr>
+</table>
 
 ## Codi de java per crear la classe ```Adressa```.
 

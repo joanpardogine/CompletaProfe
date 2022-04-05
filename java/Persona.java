@@ -1,4 +1,4 @@
-package Objectes;
+package java;
 
 public class Persona {
 	//Definició d'atributs
