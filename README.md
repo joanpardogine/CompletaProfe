@@ -10,6 +10,12 @@
 | :----------- | -----------: | :-----------: |
 | **Header** | **Title** | Title |
 | *Paragraph* | Text | ~~Title~~ |
+| **Header** | **Title** | Title |
+| *Paragraph* | Text | ~~Title~~ |
+| **Header** | **Title** | Title |
+| *Paragraph* | Text | ~~Title~~ |
+| **Header** | **Title** | Title |
+| *Paragraph* | Text | ~~Title~~ |
 
 <hr>
 <br>
