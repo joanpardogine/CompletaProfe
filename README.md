@@ -1,4 +1,22 @@
+# Temes a avaluar!
+
+**To Do List**
+
+- [ ]  **1)** els noms i cognoms dels dos alumnes que hi participen en el repositori,
+- [ ]  **2)** text en format títol de diferents nivells, així com
+- [ ]  **3)** text en format Java,
+- [ ]  **4)** text en format SQL,
+- [ ]  **5)** com a mínim una imatge, que serà el diagrama UML que hàgiu dissenyat.
+
+
+
+
+
 # Botiga d'**Informàtica**
+
+
+
+
 
 ## Blockquotes:
 > Dorothy followed her through many of the beautiful rooms in her castle.
