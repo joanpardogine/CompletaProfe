@@ -133,7 +133,7 @@
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
-  <tr style="background-color: #dddddd;">
+  <tr style="background-color: yellow;">
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
@@ -143,7 +143,7 @@
     <td>Roland Mendel</td>
     <td>Austria</td>
   </tr>
-  <tr style="background-color: #dddddd;">
+  <tr style="background-color: green;">
     <td>Island Trading</td>
     <td>Helen Bennett</td>
     <td>UK</td>
@@ -153,7 +153,7 @@
     <td>Yoshi Tannamuri</td>
     <td>Canada</td>
   </tr>
-  <tr style="background-color: #dddddd;">
+  <tr style="background-color: navy;">
     <td>Magazzini Alimentari Riuniti</td>
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
