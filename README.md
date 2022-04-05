@@ -42,6 +42,9 @@
 
 ![BotigaInformatica](./img/BotigaInformatica.png)
 
+[ginebro.cat](ginebro.cat)
+
+
 ## Codi de java per crear la classe ***```Adressa```***.
 
 
