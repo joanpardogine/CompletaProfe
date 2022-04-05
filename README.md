@@ -4,6 +4,7 @@
 
 * **Joan Pardo**
 
+## Diagrama UML:
 
-![DiagramaUML](./img/UML_Boitiga.png)
+![DiagramaUML](./img/UML_Boitiga_nou.png)
 
