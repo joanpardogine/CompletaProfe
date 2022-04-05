@@ -16,9 +16,9 @@
 
 **To Do List**
 
-[ ] text en format Java,
+- [ ] text en format Java,
 
-[x] text en format SQL,
+- [x] text en format SQL,
 
 ## Alumnes:
 
